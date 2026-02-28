@@ -49,3 +49,16 @@ pip install -r requirements.txt
 Run the full system:
 
 python main.py
+
+
+
+ ## 📊 Project Visualizations
+
+### 1️⃣ Average Score by Gender
+![Gender Chart](screenshots/gender_avg.png)
+
+### 2️⃣ Impact of Test Preparation
+![Prep Chart](screenshots/test_prep.png)
+
+### 3️⃣ Score Distribution
+![Score Chart](screenshots/score_distribution.png)
